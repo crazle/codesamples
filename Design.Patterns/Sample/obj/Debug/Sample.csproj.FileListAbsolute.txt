@@ -1,0 +1,6 @@
+J:\CodeSamples\Design.Patterns\Sample\bin\Debug\Sample.exe.config
+J:\CodeSamples\Design.Patterns\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+J:\CodeSamples\Design.Patterns\Sample\bin\Debug\Sample.exe
+J:\CodeSamples\Design.Patterns\Sample\bin\Debug\Sample.pdb
+J:\CodeSamples\Design.Patterns\Sample\obj\Debug\Sample.exe
+J:\CodeSamples\Design.Patterns\Sample\obj\Debug\Sample.pdb
